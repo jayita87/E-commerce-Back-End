@@ -39,7 +39,11 @@ Then seed the database using npm run seed in the CLI.
 Start the server by running npm start.
 
 Using Insomnia or postman use localhost:3001/api/categories, localhost:3001/api/products, or localhost:3001/api/tags with get, post, put, or delete to modify the data.  
-For a [video demonstration link:]() 
+[video demonstration link:](https://user-images.githubusercontent.com/107072905/194471297-5e66ff5e-25dc-4e93-a0fa-14df6ad7fce3.mp4)
+
+https://user-images.githubusercontent.com/107072905/194471297-5e66ff5e-25dc-4e93-a0fa-14df6ad7fce3.mp4
+
+ 
 
 ## License
 
